@@ -1,1 +1,1 @@
-print("badminu")
+print("badmi")

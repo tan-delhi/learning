@@ -1,2 +1,2 @@
 print("DEAr")
-print("assasklfhole")
+print("asda")

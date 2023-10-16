@@ -1,2 +1,2 @@
-print("love you zindagi")
+print("love you fsasafzindagi")
 print("ASdsD")

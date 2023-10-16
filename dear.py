@@ -1,2 +1,2 @@
-print("love you fsasafzindagi")
+print("love you fasfafsasafzindagi")
 print("ASdsD")

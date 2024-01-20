@@ -6,3 +6,4 @@ print("stashing a commit")
 print("are we onin alpha")
 
 print("this is an awesome feasdafature")
+print("this is a master feature")

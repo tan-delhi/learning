@@ -1,2 +1,2 @@
 print("nj")
-print("SDA")
+print("i had a payphone")

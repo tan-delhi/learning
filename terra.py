@@ -1,9 +1,9 @@
 print("badminu")
 print("ASD")
 print("what is this , this is the  message")
+print("what is this , this is the  message")
 
 print("stashing a commit")
-print("are we onin alpha")
+print("are we on main branch")
 
-print("this is an awesome feasdafature")
-print("this is a master feature")
+print("this is an awesome feature")

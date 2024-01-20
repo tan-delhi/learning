@@ -1,2 +1,2 @@
-print("love you fasfafsasafsasfafzindagi")
-print("ASdsD")
+print("DEAr")
+print("asfasffasf")

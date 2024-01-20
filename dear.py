@@ -1,4 +1,2 @@
-print("DEAr")
-print("assasklfhole")
-
+print("love you zindagi")
 print("ASdsD")
